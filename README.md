@@ -1,12 +1,12 @@
 ## 👋 A propos
 
-Je m'appelle Gwendan PUPP, j'ai 20 ans et je suis étudiant en 3ème année de BUT Informatique à l'IUT d'Orléans. 
+Je m'appelle Gwendan PUPP-BAUDSON, j'ai 20 ans et je suis étudiant en 3ème année de BUT Informatique à l'IUT d'Orléans. 
 
 ## 🌱 Compétences 
 - Langages: Python, Java, PHP, C, C++, VBA, HTML, CSS
 - BDD: MySql, MariaDB, Oracle
 - Frameworks: Flask, Symfony, Django, SQLAlchemy, JavaFx
-- Architecture: MVVM, MVC
+- Architecture: MVVM, MVC, MVT
 - OS: Linux, Windows
 - Integration API: API Rest
 
